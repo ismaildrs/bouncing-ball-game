@@ -20,4 +20,4 @@ A simple bouncing ball game implemented using HTML, CSS, and JavaScript. This pr
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/bouncing-ball-game.git
+   git clone https://github.com/ismaildrs/bouncing-ball-game.git
